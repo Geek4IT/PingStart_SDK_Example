@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PingStartDemo</string>
+    <string name="action_settings">设置</string>
+    <string name="banner_ad">轮播</string>
+    <string name="interstitial_ad">全屏</string>
+    <string name="native_ad">原生</string>
+    <string name="shuffle_ad">随机</string>
+    <string name="loading_status">正在加载广告。。。</string>
+    <string name="load_native_fail">加载广告失败</string>
+    <string name="show_banner">重新加载轮播广告!</string>
+    <string name="show_interstitial">显示全屏广告!</string>
+    <string name="show_native">显示原生广告!</string>
+    <string name="click_here">点击这里!</string>
+    <string name="load_fail_banner">加载轮播广告失败!</string>
+    <string name="load_fail_native">加载原生广告失败!</string>
+    <string name="load_fail_inter">加载全屏广告失败!</string>
+    <string name="loading">正在加载请稍后</string>
+    <string name="shuff_click">请点击这里!</string>
+    <string name="banner_adflag">AD</string>
+
+</resources>
